@@ -1,0 +1,15 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+[[plugins]]
+repo = 'Shougo/neosnippet.vim'
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+[[plugins]]
+repo = 'tomasr/molokai'
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+[[plugins]]
+repo = 'nathanaelkane/vim-indent-guides'
+hook_add = 'let g:indent_guides_enable_on_vim_startup = 1'

@@ -1,0 +1,18 @@
+[[plugins]]
+repo   = 'Shougo/unite.vim'
+
+[[plugins]]
+repo      = 'Shougo/neomru.vim'
+on_source = ['unite.vim']
+
+[[plugins]]
+repo = 'fatih/vim-go'
+on_ft = ['go']
+
+[[plugins]]
+repo = 'mattn/emmet-vim'
+on_ft = ['html']
+
+[[plugins]]
+repo = 'alvan/vim-closetag'
+on_ft = ['html']
