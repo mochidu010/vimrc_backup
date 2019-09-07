@@ -58,6 +58,8 @@ set backspace=indent,eol,start
 inoremap { {}<LEFT>
 inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
+inoremap ' ''<LEFT>
+inoremap " ""<LEFT>
 inoremap <silent> jj <ESC>
 nnoremap j gj
 nnoremap k gk
